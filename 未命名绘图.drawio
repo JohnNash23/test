@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T05:48:40.729Z" agent="5.0 (Windows)" etag="3o6ZMTUiGcWp5TVn_0IM" version="15.0.3" type="github"><diagram id="D6nXNVThdtgvcvOZyKRH" name="第 1 页">7ZtNc6s2FIZ/jZY3gxAfYgk2btpJOu1k0aY7GlRDB1seLF/b/fWVhABj5AS3CbJnWAUdHWGho+foBSkAzVaHH8pkkz3TlBTAttIDQHNg29BCmP8RlmNlcZFXGZZlniqn1vCS/0Pqlsq6y1Oy7TgySguWb7rGN7pekzfWsSVlSfddt79o0f3VTbIkPcPLW1L0rb/lKcsqK7b91v5I8mVW/zL0gqpmldTO6km2WZLS/YkJxQDNSkpZdbU6zEghBq8el6rd4kJt07GSrNmQBoun8Mfg2yN+fP5j+fpczn7NH3/6BlVvt+xYPzFJ+QCoIi1ZRpd0nRRxa41KulunRNzW4qXW54nSDTdCbvybMHZU0Ux2jHJTxlaFqiWHnP0umj+4qvR6UjM/qDvLwrEurFl5PGkkiq+ndW0zWarbVc8nHuriuCnTlu7KN/LeYKn5l5RLwt7xs5vociwIXRHeH96uJEXC8u/dfiRqfi4bvzaE/EJF8ZqIVvf9nhQ79UsgdkE0A9gSF6EPcNSPeVFwoERs91nOyMsmkQOx50x3I6duTkpGDu+PZ//5VQPkKSBURqiL+xavQJmyE7Ic64sGrOFzQuBjBOyBCCCTCNhaBEIHBB6IMQhjEMXCgjEI5i0UwjITPufToRvsEQhxu4RA1EcEQndERqBvkhF4QkjLy0eMdAhpgfl6RtBARjyjjECTEb2zrDc0or7JiCJN1uPJbgGiKrUtztMfT4jYB7EDogUIIYg9gKHw76W/jK7+3G3HSX02fLDdTvazLU328+2HMfMfmjTCcFq8e6DF09NSseGDaC6uh9AiLBhEIYgDQVqAVSvuL6izhPQ2LShcpysodEiNq7ntiafBPPkDeQqM6olJIX5+RLHJiPqaDOmJ/CaSngt4vgg9aZkBHCzms/BnWXJBZMnsKDPorWkJfANaYlLew0nB95D7sF5L+CBEEolYwCI+wnGF4NWi3BdVEQRYKzwaUeFK50A2D0HgCB8cyvt4Ql3g/mwyri40kI2rLtBE2GDCgoGEwQuTYCR5gSd58fkhtUyGNBikL5r8V+XI/nuDYUWBNNsXoyuK6W3qik086y4SXt3Ns00M8RUPik8N1dLfx4NXBdyCxEVoS+eeKK+2PiKrEe0hlp80XLEdEvRf5EwLCh1j4woKZwJsOGBDt8mhY1RRGD35cI2iMBIb22jy0x1iuPjtYVDOuzHZ4Dg3IBvu5jXpMwmw7yI71d38YPm/YrHXOVe7GvKbAkcKy28TOJSQ+QIsfHtaQAfOuFrAvRdqbkELOENpc43S5vRoe4rnEgKoaBA7erAFxTQWyPUfuiuKa2tWFEtDBvqy9WRSyVeQ4Q4lw+gxobqbZ0oMN7rLkWvMDfLhnvOh2/oZl49p5biCj7FOkcimYVkmxxOHDc3XbHty51+EoZ1ejtWdXF5wdvb+zL+RKP/Rvz4kfcnfsfB7/vyiesJ28jZD9T9yQ/8MzYqm4qVKaM65EKvqKEyskZo3kCG6IdG9kX1SfuDF9v88quFv/1sGxf8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-30T05:50:01.223Z" agent="5.0 (Windows)" etag="5RWWD5byXrrNHhZOn72S" version="15.0.3" type="github">
+  <diagram id="D6nXNVThdtgvcvOZyKRH" name="第 1 页">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-1" target="FLAI9-H8HMZgYMrCQiHJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-2" target="FLAI9-H8HMZgYMrCQiHJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-2" value="外设初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="130" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-3" target="FLAI9-H8HMZgYMrCQiHJ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-3" target="FLAI9-H8HMZgYMrCQiHJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-3" value="读取设备信息" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321.25" y="200" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-6" target="FLAI9-H8HMZgYMrCQiHJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-6" value="设置设备信息为默认值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-7" target="FLAI9-H8HMZgYMrCQiHJ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-7" target="FLAI9-H8HMZgYMrCQiHJ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-7" value="是否有FDCAN数据" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321.25" y="280" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-8" target="FLAI9-H8HMZgYMrCQiHJ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-8" value="解析并请求设置为对应状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-9" target="FLAI9-H8HMZgYMrCQiHJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-9" target="FLAI9-H8HMZgYMrCQiHJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-9" value="是否对讲" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321.25" y="360" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-10" target="FLAI9-H8HMZgYMrCQiHJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-10" value="发送对讲音频数据到FDCAN模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-11" target="FLAI9-H8HMZgYMrCQiHJ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-11" target="FLAI9-H8HMZgYMrCQiHJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-11" value="是否有音频数据" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321.25" y="440" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-12" target="FLAI9-H8HMZgYMrCQiHJ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-12" value="发送音频数据到音频处理芯片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-14" target="FLAI9-H8HMZgYMrCQiHJ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-14" value="LED灯管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-15" target="FLAI9-H8HMZgYMrCQiHJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-15" value="按键管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355.5" y="580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FLAI9-H8HMZgYMrCQiHJ-16" target="FLAI9-H8HMZgYMrCQiHJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="690" />
+              <mxPoint x="290" y="690" />
+              <mxPoint x="290" y="260" />
+              <mxPoint x="408" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FLAI9-H8HMZgYMrCQiHJ-16" value="modbus协议处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
