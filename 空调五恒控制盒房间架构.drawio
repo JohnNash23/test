@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T07:48:34.597Z" agent="5.0 (Windows)" version="16.1.4" etag="WSm4xA8yH5LAA3WyaxWo" type="github"><diagram id="3Hm0JLvPGilfro1tMs9H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-04T08:28:03.380Z" agent="5.0 (Windows)" etag="z8_lR3ZnRgKhBPINODi3" version="16.1.4" type="github">
+  <diagram id="3Hm0JLvPGilfro1tMs9H" name="第 1 页">
+    <mxGraphModel dx="825" dy="445" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;控制盒&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="352" y="343" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-14" value="&lt;div&gt;温控器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="350" y="436" width="40" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-17" value="&lt;div style=&quot;font-size: 8px&quot;&gt;新风机&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="472" y="327" width="47" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-19" value="继电器扩展板" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="261" y="333" width="31" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-31" value="&lt;div style=&quot;font-size: 8px&quot;&gt;主机&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="472" y="382" width="47" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-32" value="五合一空气质量传感器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="247" y="387" width="47" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;云平台&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="249" width="172" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-35" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;" edge="1" parent="1" source="ORPNP92_De-O0Tzvcrj4-32" target="ORPNP92_De-O0Tzvcrj4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="395.75" as="sourcePoint" />
+            <mxPoint x="366" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="323" y="398" />
+              <mxPoint x="323" y="382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-36" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;endSize=6;startSize=6;sourcePerimeterSpacing=0;" edge="1" parent="1" source="ORPNP92_De-O0Tzvcrj4-14" target="ORPNP92_De-O0Tzvcrj4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="427.25" as="sourcePoint" />
+            <mxPoint x="430" y="417" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="414" />
+              <mxPoint x="378" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-37" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;endSize=6;startSize=6;" edge="1" parent="1" source="ORPNP92_De-O0Tzvcrj4-1" target="ORPNP92_De-O0Tzvcrj4-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416" y="392" as="sourcePoint" />
+            <mxPoint x="465" y="413" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="433" y="382" />
+              <mxPoint x="433" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-38" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;" edge="1" parent="1" source="ORPNP92_De-O0Tzvcrj4-1" target="ORPNP92_De-O0Tzvcrj4-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="368.25" as="sourcePoint" />
+            <mxPoint x="478" y="358" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="442" y="356" />
+              <mxPoint x="442" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-39" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;" edge="1" parent="1" source="ORPNP92_De-O0Tzvcrj4-1" target="ORPNP92_De-O0Tzvcrj4-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333" y="318.25" as="sourcePoint" />
+            <mxPoint x="382" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-40" value="" style="endArrow=classicThin;startArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startFill=1;endFill=1;strokeWidth=0.4;" edge="1" parent="1" source="ORPNP92_De-O0Tzvcrj4-19" target="ORPNP92_De-O0Tzvcrj4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257" y="353" as="sourcePoint" />
+            <mxPoint x="341" y="361" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="319" y="344" />
+              <mxPoint x="319" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-41" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;endSize=4;startSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="343" as="sourcePoint" />
+            <mxPoint x="377.60000000000014" y="288.9" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-42" value="" style="endArrow=classicThin;startArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startFill=1;endFill=1;strokeWidth=0.4;endSize=4;startSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="292" y="344" as="sourcePoint" />
+            <mxPoint x="352" y="356" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="319" y="344" />
+              <mxPoint x="319" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-43" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;endSize=4;startSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="398" as="sourcePoint" />
+            <mxPoint x="352" y="382" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="323" y="398" />
+              <mxPoint x="323" y="382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-44" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;endSize=4;startSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404" y="356" as="sourcePoint" />
+            <mxPoint x="472" y="338" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="442" y="356" />
+              <mxPoint x="442" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
