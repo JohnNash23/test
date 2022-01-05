@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T02:51:11.902Z" agent="5.0 (Windows)" etag="-39M5EEuHAJsQqdlrgyz" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T02:53:12.086Z" agent="5.0 (Windows)" etag="MY1L5uV0I2IkQXxW2oal" version="16.2.1" type="github">
   <diagram id="3Hm0JLvPGilfro1tMs9H" name="第 1 页">
-    <mxGraphModel dx="982" dy="530" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="445" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="ORPNP92_De-O0Tzvcrj4-17" value="&lt;div style=&quot;font-size: 8px&quot;&gt;新风机&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;fontSize=8;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="471" y="334" width="47" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="ORPNP92_De-O0Tzvcrj4-19" value="继电器扩展板" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;fontSize=8;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="262" y="384" width="31" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ORPNP92_De-O0Tzvcrj4-31" value="&lt;div style=&quot;font-size: 8px&quot;&gt;主机&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;fontSize=8;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="472" y="382" width="47" height="22" as="geometry" />
@@ -61,16 +58,6 @@
             <mxPoint x="382" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPNP92_De-O0Tzvcrj4-40" value="" style="endArrow=classicThin;startArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startFill=1;endFill=1;strokeWidth=0.4;" parent="1" source="ORPNP92_De-O0Tzvcrj4-19" target="ORPNP92_De-O0Tzvcrj4-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="444" as="sourcePoint" />
-            <mxPoint x="325" y="447" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="319" y="395" />
-              <mxPoint x="319" y="382" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ORPNP92_De-O0Tzvcrj4-41" value="" style="endArrow=classicThin;html=1;rounded=0;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endFill=1;strokeWidth=0.4;endSize=4;startSize=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="378" y="343" as="sourcePoint" />
@@ -97,6 +84,18 @@
             <Array as="points">
               <mxPoint x="404" y="414" />
               <mxPoint x="398" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoPcRQuad2bP752K7JzV-3" value="继电器扩展板" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;fontSize=8;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="402" width="31" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="MoPcRQuad2bP752K7JzV-5" value="" style="endArrow=classicThin;startArrow=classicThin;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;startFill=1;endFill=1;strokeWidth=0.4;" edge="1" parent="1" source="MoPcRQuad2bP752K7JzV-3" target="ORPNP92_De-O0Tzvcrj4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="415" as="sourcePoint" />
+            <mxPoint x="351" y="381" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="299" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
