@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T03:34:47.077Z" agent="5.0 (Windows)" etag="nL65WYXhguwT7HnJS8zh" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T08:00:11.496Z" agent="5.0 (Windows)" etag="-gDtp6EwfF7fR9Xx3cgj" version="16.2.1" type="github">
   <diagram id="3Hm0JLvPGilfro1tMs9H" name="第 1 页">
-    <mxGraphModel dx="825" dy="428" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="357" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ORPNP92_De-O0Tzvcrj4-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;控制盒&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.2;fontSize=8;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="ORPNP92_De-O0Tzvcrj4-1" value="五恒&lt;div style=&quot;font-size: 8px&quot;&gt;控制盒&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.2;fontSize=8;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="352" y="343" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ORPNP92_De-O0Tzvcrj4-14" value="&lt;div&gt;温控器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.2;fontSize=8;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
@@ -98,9 +98,6 @@
               <mxPoint x="299" y="382" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MoPcRQuad2bP752K7JzV-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;翱云建筑管理系统架构&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="190" width="204" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
